@@ -1,6 +1,6 @@
 
 /* 
- * To change this license header, choose License Headers in Project Properties.
+ * This is mobile menu togle script and FAQ table manu show hide script. 
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
